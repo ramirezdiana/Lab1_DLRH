@@ -1,13 +1,13 @@
 # Myst_if706976_lab1
 Laboratory 1: Trading
 
-#Description
+# Description
 
 This is a project to compare a passive and active investment in the NAFTRAC ETF.
 
 The project uses python, and all of the final information is the notebook.ipynb. The rest of the files are required to the correct functionalities of the final version.
 
-#Install dependencies
+# Install dependencies
 
 Install all the dependencies stated in the requirements.txt file, just run the following command in terminal:
 
@@ -15,7 +15,7 @@ Install all the dependencies stated in the requirements.txt file, just run the f
 
 Or you can manually install one by one using the name and version in the file.
 
-#Funcionalities
+# Funcionalities
 From the console you can input:
 
     python main.py
@@ -29,12 +29,12 @@ And it will run all of the file printing:
 - df_operaciones: DataFrame with the purchased shares, the prices and commission
 
 - comparacion: DataFrame with the performance measurements of the passive investment, active investment, and the NAFTRAC share.
-#Author
+# Author
 
 Diana Laura Ramírez Hinojosa. Student of 9th semester of Financial Engineering. Actually working in the Supply Chain Responsibility Area of HP, in the data management
-#License
+# License
 
-#####GNU General Public License v3.0
+##### GNU General Public License v3.0
 
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 Contact
