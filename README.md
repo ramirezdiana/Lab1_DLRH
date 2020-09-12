@@ -28,7 +28,7 @@ And it will run all of the file printing:
 
 - df_operaciones: DataFrame with the purchased shares, the prices and commission
 
-- comparacion: DataFrame with the performnce measurements of the passive investment, active investment, and the NAFTRAC share.
+- comparacion: DataFrame with the performance measurements of the passive investment, active investment, and the NAFTRAC share.
 #Author
 
 Diana Laura Ramírez Hinojosa. Student of 9th semester of Financial Engineering. Actually working in the Supply Chain Responsibility Area of HP, in the data management
@@ -39,4 +39,4 @@ Diana Laura Ramírez Hinojosa. Student of 9th semester of Financial Engineering.
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 Contact
 
-For more information in reggards of this repo, please contact ramriezdiana721@gmail.com
+For more information in reggards of this repo, please contact ramirezdiana721@gmail.com
