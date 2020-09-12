@@ -11,6 +11,7 @@ import numpy as np
 import data as dt
 import functions as fc
 import visualizations as vis
+
 # fechas mensuales de la lista de archivos--------------------------------------------------------------paso 1 #
 dates = dt.dates
 
@@ -49,6 +50,11 @@ rend_merc, mercado = dt.naftrac_rend(dates)
 comparacion = dt.df_comp(rend_merc, mercado, df_pasiva, df_activa)
 print(comparacion)
 
+# extra para notebook
+
+vis.comp_vis(df_activa, df_pasiva, "capital")
+vis.comp_vis(df_activa, df_pasiva, "rendimientos")
+vis.pie(data["Ticker"],data["Peso (%)"])
 
 
 
