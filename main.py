@@ -47,8 +47,8 @@ df_operaciones = fc.active_change(titulos_hist, active_open, p1, c1, t1)
 print(df_operaciones)
 # comparación de pasivo y activo vs naftrac--------------------------------------------------------------paso 10 #
 rend_merc, mercado = dt.naftrac_rend(dates)
-comparacion = dt.df_comp(rend_merc, mercado, df_pasiva, df_activa)
-print(comparacion)
+df_metricas = dt.df_comp(rend_merc, mercado, df_pasiva, df_activa)
+print(df_metricas)
 
 # extra para notebook
 
